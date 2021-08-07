@@ -1,0 +1,4 @@
+1) instale nodejs junto con npm
+2) ejecute npm install en la carpeta del directorio
+3) luego escriba node + el nombre del archivo a ejecutar
+    Ej: node parteA para ejecutar la parte A de la prueba
